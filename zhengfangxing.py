@@ -1,0 +1,18 @@
+import turtle as t
+t.setup(800,600)
+t.penup()
+t.fd(-200)
+t.seth(90)
+t.fd(200)
+t.pendown()
+t.pensize(25)
+t.pencolor("red")
+t.seth(0)
+t.fd(400)
+t.seth(-90)
+t.fd(400)
+t.seth(180)
+t.fd(400)
+t.seth(90)
+t.fd(400)
+t.down
